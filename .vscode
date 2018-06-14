@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Roboto Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.fontSize": 13,
+    "editor.wordWrap": "off",
+    "editor.cursorStyle": "line-thin",
+    "editor.lineHeight": 32,
+    "workbench.colorTheme": "Captain Sweetheart",
+    "window.zoomLevel": 0,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.matchBrackets": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.associations": {
+        "*.heml": "html"
+    },
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "materialTheme.fixIconsRunning": false,
+    "explorer.openEditors.visible": 0
+}
