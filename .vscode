@@ -11,5 +11,6 @@
     },
     "editor.minimap.enabled": false,
     "workbench.activityBar.visible": false,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "explorer.openEditors.visible": 0
 }
