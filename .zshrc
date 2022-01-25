@@ -1,7 +1,7 @@
 export CLICOLOR=1
 
 # substring history search
-source ~/Developer/.utils/terminal/zsh-history-substring-search/zsh-history-substring-search.zsh
+source ~/Developer/.Utilities/zsh-history-substring-search/zsh-history-substring-search.zsh
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
 
@@ -25,7 +25,7 @@ export NVM_DIR="$HOME/.nvm"
 # git branching in prompt
 autoload -Uz vcs_info
 precmd() { vcs_info }
-zstyle ':vcs_info:git:*' formats 'on branch %b' 
+zstyle ':vcs_info:git:*' formats 'on branch %b'
 setopt PROMPT_SUBST
 
 PROMPT='%1d ${vcs_info_msg_0}$ '
